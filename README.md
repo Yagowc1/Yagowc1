@@ -1,5 +1,3 @@
-# Yago Cortez
-
 ### Sobre
   - Técnico em Informática pelo IFRN - Campus Currais Novos (2019-2023);
   - Graduando em Tecnologia em Sistema para Internet (2023-*), *previsto para 2025;
@@ -32,10 +30,3 @@
 Entre em contato comigo através destes links:
 
 [![Yago Cortez](https://img.shields.io/badge/LinkedIn-Yago_Cortez-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yago-cortez-9211512a7/)
-[![Yagowc1](https://img.shields.io/badge/GitHub-Yagowc1-black?style=flat-square&logo=github)](https://github.com/Yagowc1)
-
-# Autor
-
-<img loading="lazy" src="https://avatars.githubusercontent.com/u/143226127?v=4" style="width:115px;">
-<br>
-<a href="https://github.com/Yagowc1"><sub>Yago Cortez</sub></a>
