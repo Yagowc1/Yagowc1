@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Yago Cortez!
+# 👋 Olá, eu sou Yago Cortez
 
 ### 🎓 Formação Acadêmica
 - **Técnico em Informática** pelo IFRN - Campus Currais Novos (2019-2023)
