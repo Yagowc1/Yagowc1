@@ -9,13 +9,6 @@
 
 ## 🛠️ Tecnologias e Habilidades
 
-### 📝 Linguagens de Marcação e Estilo
-<div style="display: inline_block">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
-</div>
-
 ### ⚙️ Frameworks e Bibliotecas
 <div style="display: inline_block">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
